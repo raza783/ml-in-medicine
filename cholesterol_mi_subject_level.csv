@@ -1,0 +1,98 @@
+subject_id,cholesterol,label,has_mi,died
+10006,1.4,Cholesterol Ratio (Total/HDL),0,0
+10006,29.0,"Cholesterol, HDL",0,0
+10006,2.0,"Cholesterol, LDL, Calculated",0,0
+10006,41.0,"Cholesterol, Total",0,0
+10006,2.6,Cholesterol Ratio (Total/HDL),0,0
+10006,31.0,"Cholesterol, HDL",0,0
+10006,30.0,"Cholesterol, LDL, Calculated",0,0
+10006,81.0,"Cholesterol, Total",0,0
+10013,3.1,Cholesterol Ratio (Total/HDL),0,1
+10013,38.0,"Cholesterol, HDL",0,1
+10013,66.0,"Cholesterol, LDL, Calculated",0,1
+10013,119.0,"Cholesterol, Total",0,1
+10017,3.1,Cholesterol Ratio (Total/HDL),0,0
+10017,55.0,"Cholesterol, HDL",0,0
+10017,73.0,"Cholesterol, LDL, Calculated",0,0
+10017,171.0,"Cholesterol, Total",0,0
+10017,2.8,Cholesterol Ratio (Total/HDL),0,0
+10017,63.0,"Cholesterol, HDL",0,0
+10017,86.0,"Cholesterol, LDL, Calculated",0,0
+10017,177.0,"Cholesterol, Total",0,0
+10026,146.0,"Cholesterol, Total",0,0
+10027,3.1,Cholesterol Ratio (Total/HDL),0,0
+10027,49.0,"Cholesterol, HDL",0,0
+10027,81.0,"Cholesterol, LDL, Calculated",0,0
+10027,154.0,"Cholesterol, Total",0,0
+10040,2.4,Cholesterol Ratio (Total/HDL),0,0
+10040,88.0,"Cholesterol, HDL",0,0
+10040,113.0,"Cholesterol, LDL, Calculated",0,0
+10040,209.0,"Cholesterol, Total",0,0
+10089,10.3,Cholesterol Ratio (Total/HDL),0,1
+10089,32.0,"Cholesterol, HDL",0,1
+10089,274.0,"Cholesterol, LDL, Calculated",0,1
+10089,330.0,"Cholesterol, Total",0,1
+10111,4.8,Cholesterol Ratio (Total/HDL),0,1
+10111,57.0,"Cholesterol, HDL",0,1
+10111,188.0,"Cholesterol, LDL, Calculated",0,1
+10111,273.0,"Cholesterol, Total",0,1
+40204,3.6,Cholesterol Ratio (Total/HDL),0,0
+40204,28.0,"Cholesterol, HDL",0,0
+40204,52.0,"Cholesterol, LDL, Calculated",0,0
+40204,102.0,"Cholesterol, Total",0,0
+40310,8.3,Cholesterol Ratio (Total/HDL),0,0
+40310,30.0,"Cholesterol, HDL",0,0
+40310,156.0,"Cholesterol, LDL, Calculated",0,0
+40310,249.0,"Cholesterol, Total",0,0
+41795,2.7,Cholesterol Ratio (Total/HDL),0,0
+41795,45.0,"Cholesterol, HDL",0,0
+41795,64.0,"Cholesterol, LDL, Calculated",0,0
+41795,123.0,"Cholesterol, Total",0,0
+41976,5.3,Cholesterol Ratio (Total/HDL),0,0
+41976,29.0,"Cholesterol, HDL",0,0
+41976,99.0,"Cholesterol, LDL, Calculated",0,0
+41976,155.0,"Cholesterol, Total",0,0
+42033,3.7,Cholesterol Ratio (Total/HDL),0,1
+42033,42.0,"Cholesterol, HDL",0,1
+42033,88.0,"Cholesterol, LDL, Calculated",0,1
+42033,155.0,"Cholesterol, Total",0,1
+42075,3.0,Cholesterol Ratio (Total/HDL),1,1
+42075,24.0,"Cholesterol, HDL",1,1
+42075,39.0,"Cholesterol, LDL, Calculated",1,1
+42075,73.0,"Cholesterol, Total",1,1
+42199,4.0,Cholesterol Ratio (Total/HDL),0,0
+42199,34.0,"Cholesterol, HDL",0,0
+42199,89.0,"Cholesterol, LDL, Calculated",0,0
+42199,137.0,"Cholesterol, Total",0,0
+42199,4.6,Cholesterol Ratio (Total/HDL),0,0
+42199,27.0,"Cholesterol, HDL",0,0
+42199,80.0,"Cholesterol, LDL, Calculated",0,0
+42199,125.0,"Cholesterol, Total",0,0
+42430,3.0,Cholesterol Ratio (Total/HDL),0,1
+42430,50.0,"Cholesterol, HDL",0,1
+42430,92.0,"Cholesterol, LDL, Calculated",0,1
+42430,151.0,"Cholesterol, Total",0,1
+43827,3.2,Cholesterol Ratio (Total/HDL),1,0
+43827,50.0,"Cholesterol, HDL",1,0
+43827,100.0,"Cholesterol, LDL, Calculated",1,0
+43827,160.0,"Cholesterol, Total",1,0
+43870,2.9,Cholesterol Ratio (Total/HDL),0,1
+43870,62.0,"Cholesterol, HDL",0,1
+43870,103.0,"Cholesterol, LDL, Calculated",0,1
+43870,181.0,"Cholesterol, Total",0,1
+43927,4.4,Cholesterol Ratio (Total/HDL),0,0
+43927,43.0,"Cholesterol, HDL",0,0
+43927,115.0,"Cholesterol, LDL, Calculated",0,0
+43927,188.0,"Cholesterol, Total",0,0
+44083,3.9,Cholesterol Ratio (Total/HDL),0,0
+44083,36.0,"Cholesterol, HDL",0,0
+44083,90.0,"Cholesterol, LDL, Calculated",0,0
+44083,140.0,"Cholesterol, Total",0,0
+44222,4.2,Cholesterol Ratio (Total/HDL),0,0
+44222,40.0,"Cholesterol, HDL",0,0
+44222,100.0,"Cholesterol, LDL, Calculated",0,0
+44222,166.0,"Cholesterol, Total",0,0
+44222,3.2,Cholesterol Ratio (Total/HDL),0,0
+44222,43.0,"Cholesterol, HDL",0,0
+44222,74.0,"Cholesterol, LDL, Calculated",0,0
+44222,139.0,"Cholesterol, Total",0,0
